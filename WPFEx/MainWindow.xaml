@@ -1,0 +1,23 @@
+﻿<Window x:Class="WPFEx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFEx"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="_File">
+                    <MenuItem Header="_Open" x:Name="MenuOpen" Click="MenuOpen_Click"/>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+        <ListBox x:Name="lbUsers"  HorizontalAlignment="Left" Height="286" Margin="10,40,0,0" VerticalAlignment="Top" Width="300" SelectionChanged="lbUsers_SelectionChanged"/>
+        <TextBox x:Name="tbUser" Height="28" TextWrapping="Wrap" Text="" Margin="338,40,53.6,352"/>
+        <StatusBar Margin="10,331,483.6,51">
+            <TextBox x:Name="tbStatus" Height="28" TextWrapping="Wrap" Width="290"/>
+        </StatusBar>
+    </Grid>
+</Window>

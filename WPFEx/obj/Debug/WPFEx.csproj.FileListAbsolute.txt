@@ -1,0 +1,14 @@
+C:\Users\ChristianS\source\repos\WPFEx\WPFEx\bin\Debug\WPFEx.exe.config
+C:\Users\ChristianS\source\repos\WPFEx\WPFEx\bin\Debug\WPFEx.exe
+C:\Users\ChristianS\source\repos\WPFEx\WPFEx\bin\Debug\WPFEx.pdb
+C:\Users\ChristianS\source\repos\WPFEx\WPFEx\obj\Debug\WPFEx.csprojAssemblyReference.cache
+C:\Users\ChristianS\source\repos\WPFEx\WPFEx\obj\Debug\MainWindow.g.cs
+C:\Users\ChristianS\source\repos\WPFEx\WPFEx\obj\Debug\App.g.cs
+C:\Users\ChristianS\source\repos\WPFEx\WPFEx\obj\Debug\WPFEx_MarkupCompile.cache
+C:\Users\ChristianS\source\repos\WPFEx\WPFEx\obj\Debug\WPFEx_MarkupCompile.lref
+C:\Users\ChristianS\source\repos\WPFEx\WPFEx\obj\Debug\MainWindow.baml
+C:\Users\ChristianS\source\repos\WPFEx\WPFEx\obj\Debug\WPFEx.g.resources
+C:\Users\ChristianS\source\repos\WPFEx\WPFEx\obj\Debug\WPFEx.Properties.Resources.resources
+C:\Users\ChristianS\source\repos\WPFEx\WPFEx\obj\Debug\WPFEx.csproj.GenerateResource.cache
+C:\Users\ChristianS\source\repos\WPFEx\WPFEx\obj\Debug\WPFEx.exe
+C:\Users\ChristianS\source\repos\WPFEx\WPFEx\obj\Debug\WPFEx.pdb
